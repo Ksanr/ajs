@@ -84,4 +84,6 @@ typings/
 .fusebox/
 
 # DynamoDB Local files
-.dynamodb/
+.dynamodb
+
+*.bak
